@@ -1,6 +1,6 @@
 {
   "name": "BlackHole",
-  "version": "1.0.0",
+  "version": "latest",
   "description": "An open-source Music Player app for all your needs!",
   "main": "index.js",
   "repository": "https://github.com/VedxP/blackholesite",
@@ -8,8 +8,8 @@
   "license": "GPL v3.0",
   "private": true,
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.17",
-    "vue": "3.2.40"
+    "vitepress": "latest",
+    "vue": "latest"
   },
    "scripts": {
     "docs:build": "vitepress build docs",
