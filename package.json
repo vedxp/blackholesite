@@ -14,5 +14,12 @@
    "scripts": {
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
   }
 }
