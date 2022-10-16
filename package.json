@@ -9,7 +9,7 @@
   "private": true,
   "devDependencies": {
     "vitepress": "1.0.0-alpha.21",
-    "vue": "3.2.39"
+    "vue": "3.2.41"
   },
    "scripts": {
     "docs:build": "vitepress build docs",
