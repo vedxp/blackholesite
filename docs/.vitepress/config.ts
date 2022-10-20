@@ -9,7 +9,7 @@ export default defineConfig({
 
   themeConfig: {
   footer: {
-      message: "Released under the GPL v3.0 License.",
+      message: "Released under the GPL-3.0 License.",
       copyright: "Copyright © 2022-present VedxP" },
 
   nav: [
