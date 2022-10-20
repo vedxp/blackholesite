@@ -4,7 +4,6 @@ export default defineConfig({
   titleTemplate: "Music Player",
   description: "An open-source Music Player app for all your needs!",
   lang: "en-US",
-  srcDir: "./docs",
   appearance: true,
   cleanUrls: "without-subfolders",
 
