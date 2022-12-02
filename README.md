@@ -4,4 +4,8 @@ An unofficial website for BlackHole Music 🎧 by Ankit Sangwan, powered ⚡ by 
 <br><br>
 
 <pre align="center">📷 Snapshot</pre>
-<img src="snapshot.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/snapshot.png">">
+  <source media="(prefers-color-scheme: light)" srcset="/snapshot.png">">
+  <img alt="Snapshot" src="/snapshot.png">
+</picture>
