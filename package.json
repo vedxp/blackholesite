@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "An open-source Music Player app for all your needs!",
   "main": "index.js",
-  "repository": "https://github.com/VedxP/blackholesite",
-  "author": "VedxP",
-  "license": "GPL v3.0",
+  "repository": "https://github.com/vedxp/blackholesite",
+  "author": "Vedxp",
+  "license": "GPL-3.0",
   "private": true,
   "devDependencies": {
     "vitepress": "1.0.0-alpha.29",
